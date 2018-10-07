@@ -1,4 +1,4 @@
-# Generation de nombre aléatoire
+# Génération de nombre aléatoire
 
 L’objectif de ce travail est de générer des nombres aléatoires en utilisant différente distributions (uniforme, exponentielle, Pareto) puis, en les affichant afin de pouvoir visualiser le nombre d’occurrence en fonction du tirage.
 
