@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\bin\Debug\tp_random.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\bin\Debug\tp_random.exe
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\bin\Debug\tp_random.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.exe
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tp_random\tp_random\obj\Debug\tp_random.Result.resources
