@@ -40,3 +40,6 @@ Graphique des nombres aléatoires générés en fonction des différentes distri
     rand_expo = -log(1 - rand + 10^-12)
 
 ![Distribution exponentielle](/images/expo.png)
+
+## Rapport
+[Pour plus d‘informations](/doc/Rapport_TP_random_GuignardE_MeretF.pdf)
